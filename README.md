@@ -13,6 +13,10 @@ Forex Strategy Studio takes you from <strong>idea</strong> &rarr; <strong>strate
 ➡️ Then, export your strategy as real <strong>MQL5</strong> source code and run it inside <strong>MetaTrader 5</strong>
 as an Expert Advisor.
 
+## Available Strategies (all created visually in Forex Strategy Studio)
+
+<a href="EMA_Crossover/README.md" target="_blank">EMA Crossover Strategy</a>
+
 ## How to export Forex Strategy Studio strategies to MetaTrader 5 (MT5)
 
 ### 1) In Forex Strategy Studio
